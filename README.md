@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Hania 👋
 
-<!--
-**Hania-55/Hania-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Student** at FCDS
+📚 Enrolled in the **Machine Learning Track** (DEPI)
+💻 Exploring **Python**, **SQL**, and **Data Visualization**
+📊 Beginner in **Power BI** and expanding into analytics tool
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
+• 	**Programming**: Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+• 	**Databases**: SQL (queries, joins, data manipulation)
+• 	**Data Visualization**: Power BI, Matplotlib, Seaborn
+• 	**Web Development**: HTML, CSS
+• 	**App Development**: Flutter
+• 	**Other Interests**: Machine Learning, Statistics, Data Wrangling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Goals
+- Build end-to-end machine learning projects
+- Improve SQL optimization and advanced queries
+- Explore deep learning frameworks (TensorFlow, PyTorch)
+- Develop mobile apps with Flutter
+- Create responsive websites with HTML/CSS
+- Contribute to open-source projects
+
